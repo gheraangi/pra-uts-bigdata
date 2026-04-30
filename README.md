@@ -17,24 +17,23 @@ Proyek ini merupakan implementasi sederhana analisis dan prediksi traffic menggu
 
 ## ▶️ Cara Menjalankan
 
-### 1. Aktifkan virtual environment
-```bash
-source venv/bin/activate
+## 1. Aktifkan virtual environment
+    source venv/bin/activate
 
-### 2. Jalankan data processing
-python main_uts.py
+## 2. Jalankan data processingbash
+    python main_uts.py
 
-### 3. Jalankan dashboard
-streamlit run dashboard.py
+## 3. Jalankan dashboard
+    streamlit run dashboard.py
 
 📊 Output
-Folder output/ berisi data hasil processing (parquet)
-Dashboard menampilkan:
-Total kendaraan
-Grafik tren traffic
-Prediksi kendaraan
+    Folder output/ berisi data hasil processing (parquet)
+    Dashboard menampilkan:
+    Total kendaraan
+    Grafik tren traffic
+    Prediksi kendaraan
 
-### 👩‍💻 Author
+## 👩‍💻 Author
 
 Ghefira Nur Fatima
 230104040121
